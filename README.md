@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+##  ASSIGNMENT-2 
 
-You can use the [editor on GitHub](https://github.com/sonali-developer/CodingInterviewProgramming/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###### REQUIREMENTS 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_________________________________________________________________________________________
+- Basic knowledge of stacks, queues, linked lists, trees and dynamic programming is required to solve these questions. If you do not have this please go to GFG and acquire basic understanding for the same.
+- You are free to use any programming language as per your choice.
+- Please stick to the time and space complexities if mentioned in the question.
+- Please do not see solutions or copy them from different sources. This exercise is to prep you for your interviews and copying will only result in you failing the interviews.
+- Note –
+    - Name your file as <YourName_Assignment1> and upload the pdf file to the google classroom.
+- We expect you to submit original solutions and submit the assignment with as many questions as you can. You don’t have to mandatorily solve all of them.
+- If you require any help or assistance please feel free to ask questions in the classroom forum.
+- We expect you to solve all the Easy and Medium problems and if those are easy for you we have hard problem set as well. I highly recommend solving all the questions (even hard and medium)
+- From this assignment I will be posting some questions which have been asked in various interviews from a plethora of companies. I hope you all will try to solve these questions and if you are not able to, don’t be demotivated we are still practicing. I have taken few easy questions from real time interviews and listed below.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sonali-developer/CodingInterviewProgramming/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###### Happy coding
+_____________________________________________________________________________________
+###### Very frequently asked -
+1. https://leetcode.com/problems/binary-tree-right-side-view/
+2. https://leetcode.com/problems/subsets/
+3. https://leetcode.com/problems/validate-binary-search-tree/
+4. https://leetcode.com/problems/binary-tree-level-order-traversal/
+5. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+6. https://leetcode.com/problems/merge-intervals/
+7. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+8. https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+9. https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
+10. https://leetcode.com/problems/longest-palindromic-substring/
+__________________________________________________________________________________________
+###### Frequently asked -
+1. https://leetcode.com/problems/rotate-image/
+2. https://leetcode.com/problems/range-sum-of-bst/
+3. https://leetcode.com/problems/symmetric-tree/
+4. https://leetcode.com/problems/invert-binary-tree/
+5. https://leetcode.com/problems/sum-of-left-leaves/
+6. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+7. https://leetcode.com/problems/container-with-most-water/
+8. https://leetcode.com/problems/cousins-in-binary-tree/
+9. https://leetcode.com/problems/surrounded-regions/
+10. https://leetcode.com/problems/leaf-similar-trees/
+___________________________________________________________________________________________
